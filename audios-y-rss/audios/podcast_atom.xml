@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>Pequeñas Grandes Ideas</title>
         <link>https://ivovazquez.github.io/pequenias-grades-historias</link>
         <description>En los últimos años el ecosistema emprendedor ha crecido notoriamente en Argentina y sobre todo en  la provincia de Córdoba. En @pequequenasgrandesideas vas a escuchar a emprendedores  que cuentan sus proyectos innovadores; también a referentes y mentores que apoyan el emprendedurismo. Conduce: Bianca Alesci (@bianalesci)</description>
         <language>es-ar</language>
         <ttl>1440</ttl>
-        <lastBuildDate>Sun, 24 Mar 2019 22:08:16 +0300</lastBuildDate>
+        <lastBuildDate>Sun, 24 Mar 2019 22:11:06 +0300</lastBuildDate>
         <author>Gen Podcast</author>
         <itunes:owner>
             <itunes:name>Gen Podcast</itunes:name>
