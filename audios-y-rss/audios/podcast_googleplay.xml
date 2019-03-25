@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 	<channel>
 		<title> Pequeñas Grandes Ideas</title>
-		<link></link>
+		<link>https://ivovazquez.github.io/pequenias-grades-historias</link>
 		<language>es-ar</language>
 		<copyright></copyright>
 		<googleplay:author>Gen Podcast</googleplay:author>
 		<googleplay:email>ivo@data99.com.ar</googleplay:email>
-		<googleplay:image href=''/>
+		<googleplay:image href='https://ivovazquez.github.io/pequenias-grades-historias/img-cuadrada.png'/>
 		<googleplay:description>En los últimos años el ecosistema emprendedor ha crecido notoriamente en Argentina y sobre todo en  la provincia de Córdoba. En @pequequenasgrandesideas vas a escuchar a emprendedores  que cuentan sus proyectos innovadores; también a referentes y mentores que apoyan el emprendedurismo. Conduce: Bianca Alesci (@bianalesci)</googleplay:description>
 		<googleplay:explicit>No</googleplay:explicit>
 		<itunes:owner>
@@ -24,10 +24,10 @@
             </ul>]]>
 			 </googleplay:description>
 			<googleplay:author>Gen Podcast</googleplay:author>
-			<googleplay:image href='https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e01-pequenasideas.png'/>
+			<googleplay:image href='https://ivovazquez.github.io/pequenias-grades-historias/audios-y-rss/audios/s01e01-pequenasideas.png'/>
 			<googleplay:explicit>No</googleplay:explicit>
-            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e01-pequenasideas.mp3" length="25779603" type="audio/x-mp3"/>
-			<guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e01-pequenasideas.html</guid>
+            <enclosure url="https://ivovazquez.github.io/pequenias-grades-historias/audios-y-rss/audios/s01e01-pequenasideas.mp3" length="25779603" type="audio/x-mp3"/>
+			<guid>https://ivovazquez.github.io/pequenias-grades-historias/audios-y-rss/s01e01-pequenasideas.html</guid>
 			<pubDate>Fri, 15 Mar 2019 19:00:00 +0300</pubDate>
 		</item>
         
@@ -38,10 +38,10 @@
             </ul>]]>
 			 </googleplay:description>
 			<googleplay:author>Gen Podcast</googleplay:author>
-			<googleplay:image href='https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e02-pequenasideas.png'/>
+			<googleplay:image href='https://ivovazquez.github.io/pequenias-grades-historias/audios-y-rss/audios/s01e02-pequenasideas.png'/>
 			<googleplay:explicit>No</googleplay:explicit>
-            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e02-pequenasideas.mp3" length="23126405" type="audio/x-mp3"/>
-			<guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e02-pequenasideas.html</guid>
+            <enclosure url="https://ivovazquez.github.io/pequenias-grades-historias/audios-y-rss/audios/s01e02-pequenasideas.mp3" length="23126405" type="audio/x-mp3"/>
+			<guid>https://ivovazquez.github.io/pequenias-grades-historias/audios-y-rss/s01e02-pequenasideas.html</guid>
 			<pubDate>Sat, 16 Mar 2019 19:00:00 +0300</pubDate>
 		</item>
         
@@ -52,10 +52,10 @@
             </ul>]]>
 			 </googleplay:description>
 			<googleplay:author>Gen Podcast</googleplay:author>
-			<googleplay:image href='https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e03-pequenasideas.png'/>
+			<googleplay:image href='https://ivovazquez.github.io/pequenias-grades-historias/audios-y-rss/audios/s01e03-pequenasideas.png'/>
 			<googleplay:explicit>No</googleplay:explicit>
-            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e03-pequenasideas.mp3" length="21005409" type="audio/x-mp3"/>
-			<guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e03-pequenasideas.html</guid>
+            <enclosure url="https://ivovazquez.github.io/pequenias-grades-historias/audios-y-rss/audios/s01e03-pequenasideas.mp3" length="21005409" type="audio/x-mp3"/>
+			<guid>https://ivovazquez.github.io/pequenias-grades-historias/audios-y-rss/s01e03-pequenasideas.html</guid>
 			<pubDate>Sun, 17 Mar 2019 19:00:00 +0300</pubDate>
 		</item>
         
@@ -66,10 +66,10 @@
             </ul>]]>
 			 </googleplay:description>
 			<googleplay:author>Gen Podcast</googleplay:author>
-			<googleplay:image href='https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e04-pequenasideas.png'/>
+			<googleplay:image href='https://ivovazquez.github.io/pequenias-grades-historias/audios-y-rss/audios/s01e04-pequenasideas.png'/>
 			<googleplay:explicit>No</googleplay:explicit>
-            <enclosure url="https://avdata99.github.io/cadena-de-datos/audios-y-rss/audios/s01e04-pequenasideas.mp3" length="25286323" type="audio/x-mp3"/>
-			<guid>https://avdata99.github.io/cadena-de-datos/audios-y-rss/s01e04-pequenasideas.html</guid>
+            <enclosure url="https://ivovazquez.github.io/pequenias-grades-historias/audios-y-rss/audios/s01e04-pequenasideas.mp3" length="25286323" type="audio/x-mp3"/>
+			<guid>https://ivovazquez.github.io/pequenias-grades-historias/audios-y-rss/s01e04-pequenasideas.html</guid>
 			<pubDate>Fri, 22 Mar 2019 19:00:00 +0300</pubDate>
 		</item>
         

@@ -25,7 +25,7 @@ import urllib
 directorio = 'audios'
 mp3s = []
 # todos los links publicos en la web dependeran de una misma base dependiendo de donde se publique este código
-base_web = 'https://avdata99.github.io/cadena-de-datos'
+base_web = 'https://ivovazquez.github.io/pequenias-grades-historias'
 base_url = '{}/audios-y-rss'.format(base_web)
 
 """
