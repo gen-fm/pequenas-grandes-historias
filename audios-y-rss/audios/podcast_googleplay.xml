@@ -31,47 +31,5 @@
 			<pubDate>Fri, 15 Mar 2019 19:00:00 +0300</pubDate>
 		</item>
         
-        <item>
-			<title>Smart Globes</title>
-			<googleplay:description><![CDATA[Proyecto SMART GLOBES son guantes inteligentes que traducen el lenguaje de señas a sonido. Agustina Paredes, la creadora del proyecto fue premiada en 2018 por Microsoft. Pivotear y adaptarse a las necesidades de los usuarios fue clave en su proyecto. El desafío de ser mujer en la mecatrónica, un mundo que siempre se consideró de hombres.
-            <br />Ideas: <ul>
-            </ul>]]>
-			 </googleplay:description>
-			<googleplay:author>Gen Podcast</googleplay:author>
-			<googleplay:image href='https://ivovazquez.github.io/pequenias-grades-historias/audios-y-rss/audios/s01e02-pequenasideas.png'/>
-			<googleplay:explicit>No</googleplay:explicit>
-            <enclosure url="https://ivovazquez.github.io/pequenias-grades-historias/audios-y-rss/audios/s01e02-pequenasideas.mp3" length="23126405" type="audio/x-mp3"/>
-			<guid>https://ivovazquez.github.io/pequenias-grades-historias/audios-y-rss/s01e02-pequenasideas.html</guid>
-			<pubDate>Sat, 16 Mar 2019 19:00:00 +0300</pubDate>
-		</item>
-        
-        <item>
-			<title>Episodio 3</title>
-			<googleplay:description><![CDATA[
-            <br />Ideas: <ul>
-            </ul>]]>
-			 </googleplay:description>
-			<googleplay:author>Gen Podcast</googleplay:author>
-			<googleplay:image href='https://ivovazquez.github.io/pequenias-grades-historias/audios-y-rss/audios/s01e03-pequenasideas.png'/>
-			<googleplay:explicit>No</googleplay:explicit>
-            <enclosure url="https://ivovazquez.github.io/pequenias-grades-historias/audios-y-rss/audios/s01e03-pequenasideas.mp3" length="21005409" type="audio/x-mp3"/>
-			<guid>https://ivovazquez.github.io/pequenias-grades-historias/audios-y-rss/s01e03-pequenasideas.html</guid>
-			<pubDate>Sun, 17 Mar 2019 19:00:00 +0300</pubDate>
-		</item>
-        
-        <item>
-			<title>Episodio 4</title>
-			<googleplay:description><![CDATA[
-            <br />Ideas: <ul>
-            </ul>]]>
-			 </googleplay:description>
-			<googleplay:author>Gen Podcast</googleplay:author>
-			<googleplay:image href='https://ivovazquez.github.io/pequenias-grades-historias/audios-y-rss/audios/s01e04-pequenasideas.png'/>
-			<googleplay:explicit>No</googleplay:explicit>
-            <enclosure url="https://ivovazquez.github.io/pequenias-grades-historias/audios-y-rss/audios/s01e04-pequenasideas.mp3" length="25286323" type="audio/x-mp3"/>
-			<guid>https://ivovazquez.github.io/pequenias-grades-historias/audios-y-rss/s01e04-pequenasideas.html</guid>
-			<pubDate>Fri, 22 Mar 2019 19:00:00 +0300</pubDate>
-		</item>
-        
 	</channel>
 </rss>
