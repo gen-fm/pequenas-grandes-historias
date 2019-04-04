@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>Pequeñas Grandes Ideas</title>
-        <link>https://ivovazquez.github.io/pequenias-grades-historias</link>
+        <link>https://gen-fm.github.io/pequenas-grandes-historias</link>
         <description>En los últimos años el ecosistema emprendedor ha crecido notoriamente en Argentina y sobre todo en  la provincia de Córdoba. En @pequequenasgrandesideas vas a escuchar a emprendedores  que cuentan sus proyectos innovadores; también a referentes y mentores que apoyan el emprendedurismo. Conduce: Bianca Alesci (@bianalesci)</description>
         <language>es-ar</language>
         <ttl>1440</ttl>
-        <lastBuildDate>Wed, 03 Apr 2019 21:13:40 +0300</lastBuildDate>
+        <lastBuildDate>Wed, 03 Apr 2019 21:25:26 +0300</lastBuildDate>
         <author>Gen Podcast</author>
         <itunes:owner>
             <itunes:name>Gen Podcast</itunes:name>
@@ -14,8 +14,8 @@
         </itunes:owner>
         <image>
             <title>Pequeñas Grandes Ideas</title>
-            <url>https://ivovazquez.github.io/pequenias-grades-historias/img-cuadrada.png</url>
-            <link>https://ivovazquez.github.io/pequenias-grades-historias</link>
+            <url>https://gen-fm.github.io/pequenas-grandes-historias/img-cuadrada.png</url>
+            <link>https://gen-fm.github.io/pequenas-grandes-historias</link>
         </image>
 
         
@@ -29,20 +29,20 @@
         
         <item>
             <title>PROCER</title>
-            <guid>https://ivovazquez.github.io/pequenias-grades-historias/audios-y-rss/s01e01-pequenasideas.html</guid>
-            <link>https://ivovazquez.github.io/pequenias-grades-historias/audios-y-rss/s01e01-pequenasideas.html</link>
+            <guid>https://gen-fm.github.io/pequenas-grandes-historias/audios-y-rss/s01e01-pequenasideas.html</guid>
+            <link>https://gen-fm.github.io/pequenas-grandes-historias/audios-y-rss/s01e01-pequenasideas.html</link>
             <pubDate>Fri, 15 Mar 2019 19:00:00 +0300</pubDate>
             <author>Gen Podcast</author>
             <description><![CDATA[PROCER es una start up que nació en Córdoba y apuesta a la tecnología inclusiva.El producto que proponen es un dispositivo portátil de lectura artificial  que puede convertir el texto impreso a audio. Ha sido pensado para personas ciegas, con disminución visual o ceguera. Manuel Díaz Ferreiro, socio fundador de PROCER, nos cuenta cómo el crowdfounding potenció a su emprendimiento.
             <br />Ideas: <ul>
             </ul>]]></description>
             
-            <enclosure url="https://ivovazquez.github.io/pequenias-grades-historias/audios-y-rss/audios/s01e01-pequenasideas.mp3" length="25779603" type="audio/mpeg"/>
+            <enclosure url="https://gen-fm.github.io/pequenas-grandes-historias/audios-y-rss/audios/s01e01-pequenasideas.mp3" length="25779603" type="audio/mpeg"/>
 
             <image>
                 <title>PROCER</title>
-                <url>https://ivovazquez.github.io/pequenias-grades-historias/audios-y-rss/audios/s01e01-pequenasideas.png</url>
-                <link>https://ivovazquez.github.io/pequenias-grades-historias/audios-y-rss/audios/s01e01-pequenasideas.png</link>
+                <url>https://gen-fm.github.io/pequenas-grandes-historias/audios-y-rss/audios/s01e01-pequenasideas.png</url>
+                <link>https://gen-fm.github.io/pequenas-grandes-historias/audios-y-rss/audios/s01e01-pequenasideas.png</link>
             </image>
 
         </item>
