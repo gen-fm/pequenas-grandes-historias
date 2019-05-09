@@ -31,5 +31,19 @@
 			<pubDate>Fri, 15 Mar 2019 19:00:00 +0300</pubDate>
 		</item>
         
+        <item>
+			<title>Smart Globes</title>
+			<googleplay:description><![CDATA[Proyecto SMART GLOBES son guantes inteligentes que traducen el lenguaje de señas a sonido. Agustina Paredes, la creadora del proyecto fue premiada en 2018 por Microsoft. Pivotear y adaptarse a las necesidades de los usuarios fue clave en su proyecto. El desafío de ser mujer en la mecatrónica, un mundo que siempre se consideró de hombres.
+            <br />Ideas: <ul>
+            </ul>]]>
+			 </googleplay:description>
+			<googleplay:author>Gen Podcast</googleplay:author>
+			<googleplay:image href='https://gen-fm.github.io/pequenas-grandes-historias/audios-y-rss/audios/s01e02-pequenasideas.png'/>
+			<googleplay:explicit>No</googleplay:explicit>
+            <enclosure url="https://gen-fm.github.io/pequenas-grandes-historias/audios-y-rss/audios/s01e02-pequenasideas.mp3" length="23126405" type="audio/x-mp3"/>
+			<guid>https://gen-fm.github.io/pequenas-grandes-historias/audios-y-rss/s01e02-pequenasideas.html</guid>
+			<pubDate>Sat, 16 Mar 2019 19:00:00 +0300</pubDate>
+		</item>
+        
 	</channel>
 </rss>

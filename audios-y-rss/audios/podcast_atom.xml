@@ -6,7 +6,7 @@
         <description>En los últimos años el ecosistema emprendedor ha crecido notoriamente en Argentina y sobre todo en  la provincia de Córdoba. En @pequequenasgrandesideas vas a escuchar a emprendedores  que cuentan sus proyectos innovadores; también a referentes y mentores que apoyan el emprendedurismo. Conduce: Bianca Alesci (@bianalesci)</description>
         <language>es-ar</language>
         <ttl>1440</ttl>
-        <lastBuildDate>Wed, 03 Apr 2019 21:25:26 +0300</lastBuildDate>
+        <lastBuildDate>Wed, 08 May 2019 21:32:17 +0300</lastBuildDate>
         <author>Gen Podcast</author>
         <itunes:owner>
             <itunes:name>Gen Podcast</itunes:name>
@@ -43,6 +43,26 @@
                 <title>PROCER</title>
                 <url>https://gen-fm.github.io/pequenas-grandes-historias/audios-y-rss/audios/s01e01-pequenasideas.png</url>
                 <link>https://gen-fm.github.io/pequenas-grandes-historias/audios-y-rss/audios/s01e01-pequenasideas.png</link>
+            </image>
+
+        </item>
+        
+        <item>
+            <title>Smart Globes</title>
+            <guid>https://gen-fm.github.io/pequenas-grandes-historias/audios-y-rss/s01e02-pequenasideas.html</guid>
+            <link>https://gen-fm.github.io/pequenas-grandes-historias/audios-y-rss/s01e02-pequenasideas.html</link>
+            <pubDate>Sat, 16 Mar 2019 19:00:00 +0300</pubDate>
+            <author>Gen Podcast</author>
+            <description><![CDATA[Proyecto SMART GLOBES son guantes inteligentes que traducen el lenguaje de señas a sonido. Agustina Paredes, la creadora del proyecto fue premiada en 2018 por Microsoft. Pivotear y adaptarse a las necesidades de los usuarios fue clave en su proyecto. El desafío de ser mujer en la mecatrónica, un mundo que siempre se consideró de hombres.
+            <br />Ideas: <ul>
+            </ul>]]></description>
+            
+            <enclosure url="https://gen-fm.github.io/pequenas-grandes-historias/audios-y-rss/audios/s01e02-pequenasideas.mp3" length="23126405" type="audio/mpeg"/>
+
+            <image>
+                <title>Smart Globes</title>
+                <url>https://gen-fm.github.io/pequenas-grandes-historias/audios-y-rss/audios/s01e02-pequenasideas.png</url>
+                <link>https://gen-fm.github.io/pequenas-grandes-historias/audios-y-rss/audios/s01e02-pequenasideas.png</link>
             </image>
 
         </item>
