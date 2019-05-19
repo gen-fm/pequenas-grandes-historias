@@ -6,7 +6,7 @@
         <description>En los últimos años el ecosistema emprendedor ha crecido notoriamente en Argentina y sobre todo en  la provincia de Córdoba. En @pequequenasgrandesideas vas a escuchar a emprendedores  que cuentan sus proyectos innovadores; también a referentes y mentores que apoyan el emprendedurismo. Conduce: Bianca Alesci (@bianalesci)</description>
         <language>es-ar</language>
         <ttl>1440</ttl>
-        <lastBuildDate>Wed, 15 May 2019 21:22:25 +0300</lastBuildDate>
+        <lastBuildDate>Sun, 19 May 2019 17:19:17 +0300</lastBuildDate>
         <author>Gen Podcast</author>
         <itunes:owner>
             <itunes:name>Gen Podcast</itunes:name>
@@ -63,6 +63,26 @@
                 <title>Smart Globes</title>
                 <url>https://gen-fm.github.io/pequenas-grandes-historias/audios-y-rss/audios/s01e02-pequenasideas.png</url>
                 <link>https://gen-fm.github.io/pequenas-grandes-historias/audios-y-rss/audios/s01e02-pequenasideas.png</link>
+            </image>
+
+        </item>
+        
+        <item>
+            <title>Ladrillos Eco Sustentables</title>
+            <guid>https://gen-fm.github.io/pequenas-grandes-historias/audios-y-rss/s01e03-pequenasideas.html</guid>
+            <link>https://gen-fm.github.io/pequenas-grandes-historias/audios-y-rss/s01e03-pequenasideas.html</link>
+            <pubDate>Fri, 17 May 2019 19:00:00 +0300</pubDate>
+            <author>Gen Podcast</author>
+            <description><![CDATA[
+            <br />Ideas: <ul>
+            </ul>]]></description>
+            
+            <enclosure url="https://gen-fm.github.io/pequenas-grandes-historias/audios-y-rss/audios/s01e03-pequenasideas.mp3" length="21005409" type="audio/mpeg"/>
+
+            <image>
+                <title>Ladrillos Eco Sustentables</title>
+                <url>https://gen-fm.github.io/pequenas-grandes-historias/audios-y-rss/audios/s01e03-pequenasideas.png</url>
+                <link>https://gen-fm.github.io/pequenas-grandes-historias/audios-y-rss/audios/s01e03-pequenasideas.png</link>
             </image>
 
         </item>

@@ -45,5 +45,19 @@
 			<pubDate>Sat, 16 Mar 2019 19:00:00 +0300</pubDate>
 		</item>
         
+        <item>
+			<title>Ladrillos Eco Sustentables</title>
+			<googleplay:description><![CDATA[
+            <br />Ideas: <ul>
+            </ul>]]>
+			 </googleplay:description>
+			<googleplay:author>Gen Podcast</googleplay:author>
+			<googleplay:image href='https://gen-fm.github.io/pequenas-grandes-historias/audios-y-rss/audios/s01e03-pequenasideas.png'/>
+			<googleplay:explicit>No</googleplay:explicit>
+            <enclosure url="https://gen-fm.github.io/pequenas-grandes-historias/audios-y-rss/audios/s01e03-pequenasideas.mp3" length="21005409" type="audio/x-mp3"/>
+			<guid>https://gen-fm.github.io/pequenas-grandes-historias/audios-y-rss/s01e03-pequenasideas.html</guid>
+			<pubDate>Fri, 17 May 2019 19:00:00 +0300</pubDate>
+		</item>
+        
 	</channel>
 </rss>
